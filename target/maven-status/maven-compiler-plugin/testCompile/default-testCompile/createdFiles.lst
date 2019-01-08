@@ -1,0 +1,3 @@
+tests\InvalidLoginTest.class
+tests\ValidLoginLogoutTest.class
+tests\VerifyVersionTest.class
